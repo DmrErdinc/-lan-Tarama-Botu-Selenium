@@ -107,6 +107,4 @@ Bu bot geliştirilmeye açıktır. Şunlar eklenebilir:
 
 ## ✨ Hazırlayan
 
-**Sen - Patron**
-
-Her şey sana özel, senin kontrolünde. 😎
+Erdinç Demir😎
